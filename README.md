@@ -1,0 +1,1 @@
+Dépôt de l'avancement d'un projet de géoréférencement d'images obliques de montagne, et de segmentation de neige. Projet réalisé dans le cadre d'un stage de 2 mois conjointement encadré par Philippe Choler(LECA), Fatima Karbou(CEN-CNRM) et Guillaume James(LJK).
