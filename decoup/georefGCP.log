@@ -1,0 +1,105 @@
+2026-06-04 10:40:58 georefparam.yml 
+ {
+    "demfname": "/Users/placideneuilly/Desktop/stage-neige/data/mnt_5m_final.tif",
+    "visfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/outputviewshed.tif",
+    "imgfname": "/Users/placideneuilly/Desktop/stage-neige/decoup/06_14_centre.jpg",
+    "GCPfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/lautGCP.csv",
+    "obscoords": [
+        967903.44,
+        6445500.06,
+        2661.5
+    ],
+    "tgtcoords": [
+        967197.8,
+        6444110.29,
+        2640
+    ],
+    "fwidth": 0.036,
+    "fheight": 0.02592,
+    "focallength": 0.02145,
+    "roll": -1.5
+}
+2026-06-04 10:41:20 georefparam.yml 
+ {
+    "demfname": "/Users/placideneuilly/Desktop/stage-neige/data/mnt_5m_final.tif",
+    "visfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/outputviewshed.tif",
+    "imgfname": "/Users/placideneuilly/Desktop/stage-neige/decoup/06_14_centre.jpg",
+    "GCPfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/lautGCP.csv",
+    "obscoords": [
+        967903.44,
+        6445500.06,
+        2661.5
+    ],
+    "tgtcoords": [
+        967197.8,
+        6444110.29,
+        2640
+    ],
+    "fwidth": 0.036,
+    "fheight": 0.02592,
+    "focallength": 0.02145,
+    "roll": -1.5
+}
+2026-06-04 10:58:33 georefparam.yml 
+ {
+    "demfname": "/Users/placideneuilly/Desktop/stage-neige/data/mnt_5m_final.tif",
+    "visfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/outputviewshed.tif",
+    "imgfname": "/Users/placideneuilly/Desktop/stage-neige/decoup/06_14_centre.jpg",
+    "GCPfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/lautGCP.csv",
+    "obscoords": [
+        967903.44,
+        6445500.06,
+        2661.5
+    ],
+    "tgtcoords": [
+        967197.8,
+        6444110.29,
+        2640
+    ],
+    "fwidth": 0.036,
+    "fheight": 0.02592,
+    "focallength": 0.02145,
+    "roll": -1.5
+}
+2026-06-04 10:58:52 georefparam.yml 
+ {
+    "demfname": "/Users/placideneuilly/Desktop/stage-neige/data/mnt_5m_final.tif",
+    "visfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/outputviewshed.tif",
+    "imgfname": "/Users/placideneuilly/Desktop/stage-neige/decoup/06_14_centre.jpg",
+    "GCPfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/lautGCP.csv",
+    "obscoords": [
+        967903.44,
+        6445500.06,
+        2661.5
+    ],
+    "tgtcoords": [
+        967197.8,
+        6444110.29,
+        2640
+    ],
+    "fwidth": 0.036,
+    "fheight": 0.02592,
+    "focallength": 0.02145,
+    "roll": -1.5
+}
+2026-06-04 10:58:53 georefparam.yml 
+ {
+    "demfname": "/Users/placideneuilly/Desktop/stage-neige/data/mnt_5m_final.tif",
+    "visfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/outputviewshed.tif",
+    "imgfname": "/Users/placideneuilly/Desktop/stage-neige/decoup/06_14_centre.jpg",
+    "GCPfname": "/Users/placideneuilly/Desktop/stage-neige/photogeoref_meteoexpl/lautGCP.csv",
+    "obscoords": [
+        967903.44,
+        6445500.06,
+        2661.5
+    ],
+    "tgtcoords": [
+        967197.8,
+        6444110.29,
+        2640
+    ],
+    "fwidth": 0.036,
+    "fheight": 0.02592,
+    "focallength": 0.02145,
+    "roll": -1.5
+}
